@@ -1,4 +1,4 @@
--- edited version of Venyx to handle custom hub colors
+-- edited version of Venyx to handle custom hub color palette
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
 
